@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AwesomePRO8.iml" filepath="$PROJECT_DIR$/.idea/modules/AwesomePRO8.iml" group="AwesomePRO8" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="AwesomePRO8/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1246701451/react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/1246701451/react-native-community_geolocation.iml" group="AwesomePRO8/react-native-community_geolocation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/313957164/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/313957164/react-native-community_masked-view.iml" group="AwesomePRO8/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2113526997/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-2113526997/react-native-gesture-handler.iml" group="AwesomePRO8/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1493575875/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1493575875/react-native-linear-gradient.iml" group="AwesomePRO8/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1814434799/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1814434799/react-native-reanimated.iml" group="AwesomePRO8/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1071455444/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1071455444/react-native-safe-area-context.iml" group="AwesomePRO8/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-350571028/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-350571028/react-native-screens.iml" group="AwesomePRO8/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1717267163/react-native-sim-data.iml" filepath="$PROJECT_DIR$/.idea/modules/1717267163/react-native-sim-data.iml" group="AwesomePRO8/react-native-sim-data" />
+    </modules>
+  </component>
+</project>

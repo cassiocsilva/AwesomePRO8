@@ -1,0 +1,4 @@
+#Fri Nov 13 23:54:21 BRT 2020
+base.0=/home/julia/AwesomePRO8/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

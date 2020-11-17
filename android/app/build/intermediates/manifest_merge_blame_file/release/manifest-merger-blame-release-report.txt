@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.awesomepro8"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:5:5-78
+12-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:5:22-75
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:6:5-79
+13-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->[:react-native-sim-data] /home/julia/AwesomePRO8/node_modules/react-native-sim-data/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-75
+14-->[:react-native-sim-data] /home/julia/AwesomePRO8/node_modules/react-native-sim-data/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-72
+15
+16    <application
+16-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:8:5-27:19
+17        android:name="com.awesomepro8.MainApplication"
+17-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:9:7-38
+18        android:allowBackup="false"
+18-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:13:7-34
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] /home/julia/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
+20        android:icon="@mipmap/ic_launcher"
+20-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:11:7-41
+21        android:label="@string/app_name"
+21-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:10:7-39
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:12:7-52
+23        android:theme="@style/AppTheme" >
+23-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:14:7-38
+24        <activity
+24-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:15:7-25:18
+25            android:name="com.awesomepro8.MainActivity"
+25-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:16:9-37
+26            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+26-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:18:9-86
+27            android:label="@string/app_name"
+27-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:17:9-41
+28            android:launchMode="singleTask"
+28-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:19:9-40
+29            android:windowSoftInputMode="adjustResize" >
+29-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:20:9-51
+30            <intent-filter>
+30-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:21:9-24:25
+31                <action android:name="android.intent.action.MAIN" />
+31-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:22:13-65
+31-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:22:21-62
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:23:13-73
+33-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:23:23-70
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+36-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:26:7-84
+36-->/home/julia/AwesomePRO8/android/app/src/main/AndroidManifest.xml:26:17-81
+37    </application>
+38
+39</manifest>
